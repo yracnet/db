@@ -6,6 +6,13 @@
       "nombres": "Willyams",
       "apellidos": "Yujra",
       "descripcion": "Administradro del sistema"
+    },
+    {
+      "id": 2,
+      "email": "yracnet@gmail.com",
+      "nombres": "Willyams",
+      "apellidos": "Yujra",
+      "descripcion": "Administradro del sistema"
     }
   ],
   "seg_permiso": [
